@@ -1,0 +1,17 @@
+{
+    "posts": [
+      { "id": 1, "title": "ireland", "author": "Person1" ,"image":"./Assets/rose.jpg"},
+      { "id": 2, "title": "Spain", "author": "Person2" ,"image":"./Assets/sunflower.jpg"},
+      { "id": 3, "title": "singapore", "author": "Person3" ,"image":"https://tse1.mm.bing.net/th?id=OIP.38IqmSBpQxHgJ4n_BEODqgHaGD&pid=Api&P=0&w=221&h=181"},
+      { "id": 4, "title": "Indonasia", "author": "Person4" ,"image":"http://1.bp.blogspot.com/-LjKXVeTdEeA/UZBP26d4NNI/AAAAAAAADvM/ckZgSvEEUKU/s1600/yellow+rose+flower.jpg"},
+      { "id": 4, "title": "sreedevi", "author": "Person4" ,"image":"https://wallup.net/wp-content/uploads/2016/03/10/317606-nature-flowers-rose.jpg"}
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment on londan", "postId": 1 },
+      { "id": 1, "body": "some comment on spain", "postId": 2 },
+      { "id": 1, "body": "some comment on india", "postId": 3 },
+      { "id": 1, "body": "some comment on indonasia", "postId": 4 },
+      { "id": 1, "body": "some comment on India", "postId": 4 }
+    ],
+    "profile": { "name": "typicode" }
+  }
